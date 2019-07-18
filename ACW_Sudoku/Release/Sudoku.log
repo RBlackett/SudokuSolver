@@ -1,0 +1,10 @@
+﻿  Cell.cpp
+Cell.cpp(45): warning C4018: '<': signed/unsigned mismatch
+  Main.cpp
+  CellGroup.cpp
+  SudokuPuzzle.cpp
+SudokuPuzzle.cpp(128): warning C4018: '<': signed/unsigned mismatch
+  Generating code
+  All 287 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Sudoku.vcxproj -> D:\Uni Drive Backup\507165\Previous Year\08227\ACW_Sudoku\Release\Sudoku.exe
